@@ -1,0 +1,20 @@
+---
+title: 'Milestone 3: Data'
+author: "Margaret Butler"
+date: "10/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE, echo=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(janitor)
+library(readxl)
+```
+
+I'm hoping to map Army ROTC Accessions data. Data is taken from Cadet Command's yearly Accessions Brief. Data is currently in a Power Point. Going to strip data and input it in excel myself. I am having trouble attaching it. Alice Xu has seen it. It exists I swear.
+
+```{r}
+
+
+```
